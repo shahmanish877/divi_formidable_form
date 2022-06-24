@@ -1,3 +1,5 @@
+The motive of this custom Divi module is to implement Formidable form on the frontend editor for Divi theme.
+
 This project was bootstrapped with [Create Divi Extension](https://github.com/elegantthemes/create-divi-extension).
 
 Below you will find some information on how to perform common tasks. You can find the most recent version of this guide [here](https://github.com/elegantthemes/create-divi-extension/blob/master/packages/divi-scripts/template/README.md).
